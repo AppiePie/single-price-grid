@@ -27,6 +27,7 @@ body {
 }
 .container {
   border-radius: 0.5rem;
+  overflow: hidden;
   margin: calc(2.5 * var(--default-padding));
   display: grid;
 }
